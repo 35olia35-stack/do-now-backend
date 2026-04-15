@@ -73,7 +73,7 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
         <h2>Contact</h2>
         <p>
           If you have any questions about this Privacy Policy, you can contact us at:
-          your-email@example.com
+          35olia35@gmail.com
         </p>
 
         <h2>Changes</h2>
