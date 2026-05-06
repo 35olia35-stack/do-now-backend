@@ -1,6 +1,6 @@
 import { createClient } from '@supabase/supabase-js';
 
-const TRIAL_DAYS = 30;
+const TRIAL_DAYS = 50;
 
 const supabase = createClient(
   process.env.SUPABASE_URL!,
